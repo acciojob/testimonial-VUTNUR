@@ -16,6 +16,7 @@
 .para-2{
 /* 	left:500px; */
 	text-align:right;
+	font-family:italic;
 }
 .para-3{
 	position:relative;
@@ -24,4 +25,5 @@
 /* 	position:absolute; */
 /*     left:500px; */
 	text-align:right;
+	font-family:italic;
 }
