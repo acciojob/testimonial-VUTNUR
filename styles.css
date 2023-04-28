@@ -14,13 +14,14 @@
 	position:relative;
 }
 .para-2{
-	position:absolute;
-	left:500px;
+/* 	left:500px; */
+	text-align:right;
 }
 .para-3{
 	position:relative;
 }
 .para-4{
-	position:absolute;
-    left:500px;
+/* 	position:absolute; */
+/*     left:500px; */
+	text-align:right;
 }
